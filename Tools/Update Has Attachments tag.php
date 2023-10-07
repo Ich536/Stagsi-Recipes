@@ -1,3 +1,4 @@
+
 <?php
 // `! lic=cc0`, con=<norkov@soletude.ca>`, rev=$Id$
 // Used in Stagsi Cookbook: `@https://go.soletude.ca/stagsi/ex/RN`@
